@@ -1,0 +1,6 @@
+Name       = [MUI] Enhanced Pokemon UI
+Version    = 1.0.4
+Essentials = 21.1
+Requires   = Modular UI Scenes,2.0.4
+Website    = https://www.pokecommunity.com/threads/enhanced-pokemon-ui-v21-1.500755/
+Credits    = Lucidious89
