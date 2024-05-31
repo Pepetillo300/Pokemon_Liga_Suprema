@@ -1270,14 +1270,14 @@ Evolutions = VENOMOTH,Level,31
 [VENOMOTH]
 Name = Venomoth
 Types = BUG,POISON
-BaseStats = 70,65,60,90,90,75
+BaseStats = 80,65,70,95,105,85
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 158
 EVs = SPECIAL_ATTACK,1,SPEED,1
 CatchRate = 75
 Happiness = 50
-Abilities = SHIELDDUST,TINTEDLENS
+Abilities = COMPOUNDEYES
 HiddenAbilities = WONDERSKIN
 Moves = 0,GUST,1,QUIVERDANCE,1,BUGBUZZ,1,WHIRLWIND,1,TACKLE,1,DISABLE,1,STRUGGLEBUG,1,SUPERSONIC,5,SUPERSONIC,11,CONFUSION,13,POISONPOWDER,17,PSYBEAM,23,STUNSPORE,25,MEGADRAIN,29,SLEEPPOWDER,37,LEECHLIFE,41,ZENHEADBUTT,47,POISONFANG,55,PSYCHIC,59,BUGBUZZ,63,QUIVERDANCE
 TutorMoves = ACROBATICS,AERIALACE,AIRCUTTER,ATTRACT,BUGBITE,BUGBUZZ,CAPTIVATE,CONFIDE,DEFOG,DOUBLEEDGE,DOUBLETEAM,ENDURE,ENERGYBALL,FACADE,FLASH,FRUSTRATION,GIGADRAIN,GIGAIMPACT,HIDDENPOWER,HYPERBEAM,INFESTATION,LEECHLIFE,MIMIC,NATURALGIFT,OMINOUSWIND,PROTECT,PSYCHIC,REST,RETURN,ROOST,ROUND,SECRETPOWER,SIGNALBEAM,SILVERWIND,SKILLSWAP,SLEEPTALK,SLUDGEBOMB,SNORE,SOLARBEAM,STRINGSHOT,STRUGGLEBUG,SUBSTITUTE,SUNNYDAY,SWAGGER,SWIFT,TAILWIND,THIEF,TWISTER,UTURN,VENOSHOCK,ZENHEADBUTT
@@ -1357,9 +1357,9 @@ BaseExp = 58
 EVs = SPEED,1
 CatchRate = 255
 Happiness = 50
-Abilities = PICKUP,TECHNICIAN
-HiddenAbilities = UNNERVE
-Moves = 1,FAKEOUT,1,GROWL,4,FEINT,8,SCRATCH,12,PAYDAY,16,BITE,20,TAUNT,24,ASSURANCE,29,FURYSWIPES,32,SCREECH,36,SLASH,40,NASTYPLOT,44,PLAYROUGH
+Abilities = TECHNICIAN
+HiddenAbilities = SKILLLINK
+Moves = 1,FAKEOUT,1,GROWL,4,FEINT,8,SCRATCH,12,PAYDAY,16,BITE,20,TAUNT,24,ASSURANCE,29,FURYSWIPES,32,SCREECH,36,SLASH,40,NASTYPLOT,44,PLAYROUGH,46,TAILSLAP
 TutorMoves = AERIALACE,AMNESIA,ASSURANCE,ATTRACT,BODYSLAM,CAPTIVATE,CHARM,CONFIDE,COVET,CUT,DARKPULSE,DEFENSECURL,DIG,DOUBLEEDGE,DOUBLETEAM,DREAMEATER,ECHOEDVOICE,ENDURE,FACADE,FLASH,FOULPLAY,FRUSTRATION,GUNKSHOT,HEADBUTT,HIDDENPOWER,HONECLAWS,HYPERVOICE,ICYWIND,IRONTAIL,KNOCKOFF,LASHOUT,LASTRESORT,MIMIC,MUDSLAP,NASTYPLOT,NATURALGIFT,PAYBACK,PAYDAY,PLAYROUGH,PROTECT,PSYCHUP,RAINDANCE,REST,RETALIATE,RETURN,ROUND,SCREECH,SECRETPOWER,SEEDBOMB,SHADOWBALL,SHADOWCLAW,SHOCKWAVE,SLEEPTALK,SNATCH,SNORE,SPITE,SUBSTITUTE,SUNNYDAY,SWAGGER,SWIFT,TAUNT,THIEF,THROATCHOP,THUNDER,THUNDERBOLT,TORMENT,UPROAR,UTURN,WATERPULSE,WORKUP
 EggMoves = AMNESIA,CHARM,COVET,FLAIL,FOULPLAY,HYPNOSIS,LASTRESORT,SPITE,TAILWHIP
 EggGroups = Field
@@ -1385,9 +1385,9 @@ BaseExp = 154
 EVs = SPEED,2
 CatchRate = 90
 Happiness = 50
-Abilities = LIMBER,TECHNICIAN
-HiddenAbilities = UNNERVE
-Moves = 0,POWERGEM,1,SWITCHEROO,1,FAKEOUT,1,GROWL,1,FEINT,1,SCRATCH,12,PAYDAY,16,BITE,20,TAUNT,24,ASSURANCE,31,FURYSWIPES,36,SCREECH,42,SLASH,48,NASTYPLOT,54,PLAYROUGH
+Abilities = TECHNICIAN
+HiddenAbilities = SKILLLINK
+Moves = 0,POWERGEM,1,SWITCHEROO,1,FAKEOUT,1,GROWL,1,FEINT,1,SCRATCH,12,PAYDAY,16,BITE,20,TAUNT,24,ASSURANCE,31,FURYSWIPES,36,SCREECH,42,SLASH,46,TAILSLAP,48,NASTYPLOT,54,PLAYROUGH
 TutorMoves = AERIALACE,AMNESIA,ASSURANCE,ATTRACT,BODYSLAM,CAPTIVATE,CHARM,CONFIDE,COVET,CUT,DARKPULSE,DEFENSECURL,DIG,DOUBLEEDGE,DOUBLETEAM,DREAMEATER,ECHOEDVOICE,EMBARGO,ENDURE,FACADE,FLASH,FOULPLAY,FRUSTRATION,GIGAIMPACT,GUNKSHOT,HEADBUTT,HIDDENPOWER,HONECLAWS,HYPERBEAM,HYPERVOICE,ICYWIND,IRONTAIL,KNOCKOFF,LASHOUT,LASTRESORT,MIMIC,MUDSLAP,NASTYPLOT,NATURALGIFT,PAYBACK,PAYDAY,PLAYROUGH,POWERGEM,PROTECT,PSYCHUP,RAINDANCE,REST,RETALIATE,RETURN,ROAR,ROUND,SCREECH,SECRETPOWER,SEEDBOMB,SHADOWBALL,SHADOWCLAW,SHOCKWAVE,SKITTERSMACK,SLEEPTALK,SNATCH,SNORE,SPITE,SUBSTITUTE,SUNNYDAY,SWAGGER,SWIFT,TAUNT,THIEF,THROATCHOP,THUNDER,THUNDERBOLT,TORMENT,UPROAR,UTURN,WATERPULSE,WORKUP
 EggGroups = Field
 HatchSteps = 5120
@@ -1411,9 +1411,9 @@ BaseExp = 64
 EVs = SPECIAL_ATTACK,1
 CatchRate = 190
 Happiness = 50
-Abilities = DAMP,CLOUDNINE
-HiddenAbilities = SWIFTSWIM
-Moves = 1,SCRATCH,1,TAILWHIP,3,WATERGUN,6,CONFUSION,9,FURYSWIPES,12,WATERPULSE,15,DISABLE,18,ZENHEADBUTT,21,SCREECH,24,AQUATAIL,27,SOAK,30,PSYCHUP,34,AMNESIA,36,HYDROPUMP,39,WONDERROOM
+Abilities = SWIFTSWIM,CLOUDNINE
+HiddenAbilities = SIMPLE
+Moves = 1,SCRATCH,1,TAILWHIP,3,WATERGUN,6,CONFUSION,9,FURYSWIPES,12,WATERPULSE,15,DISABLE,18,ZENHEADBUTT,21,SCREECH,24,AQUATAIL,27,SOAK,30,PSYCHUP,32,PSYSHOCK,34,AMNESIA,36,HYDROPUMP,39,WONDERROOM,42,PSYCHIC
 TutorMoves = AERIALACE,AMNESIA,AQUATAIL,ATTRACT,BLIZZARD,BODYSLAM,BRICKBREAK,BRINE,CALMMIND,CAPTIVATE,CONFIDE,COUNTER,DIG,DIVE,DOUBLEEDGE,DOUBLETEAM,DYNAMICPUNCH,ENCORE,ENDURE,FACADE,FLASH,FLING,FOCUSPUNCH,FRUSTRATION,FUTURESIGHT,HAIL,HEADBUTT,HIDDENPOWER,HONECLAWS,HYDROPUMP,ICEBEAM,ICEPUNCH,ICYWIND,IRONTAIL,LIGHTSCREEN,MEGAKICK,MEGAPUNCH,MIMIC,MUDSLAP,NATURALGIFT,PAYDAY,POWERUPPUNCH,PROTECT,PSYCHIC,PSYCHUP,PSYSHOCK,RAINDANCE,REST,RETURN,ROCKSMASH,ROLEPLAY,ROUND,SCALD,SCREECH,SECRETPOWER,SEISMICTOSS,SHADOWCLAW,SIGNALBEAM,SLEEPTALK,SNORE,STRENGTH,SUBSTITUTE,SURF,SWAGGER,SWIFT,TELEKINESIS,WATERFALL,WATERPULSE,WHIRLPOOL,WONDERROOM,WORRYSEED,ZENHEADBUTT
 EggMoves = CLEARSMOG,CONFUSERAY,CROSSCHOP,ENCORE,FUTURESIGHT,HYPNOSIS,PSYBEAM,SIMPLEBEAM,YAWN
 EggGroups = Water1,Field
@@ -1431,16 +1431,16 @@ Evolutions = GOLDUCK,Level,33
 [GOLDUCK]
 Name = Golduck
 Types = WATER
-BaseStats = 80,82,78,85,95,80
+BaseStats = 80,77,78,85,100,80
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 175
 EVs = SPECIAL_ATTACK,2
 CatchRate = 75
 Happiness = 50
-Abilities = DAMP,CLOUDNINE
-HiddenAbilities = SWIFTSWIM
-Moves = 1,AQUAJET,1,SCRATCH,1,TAILWHIP,1,WATERGUN,1,CONFUSION,9,FURYSWIPES,12,WATERPULSE,15,DISABLE,18,ZENHEADBUTT,21,SCREECH,24,AQUATAIL,27,SOAK,30,PSYCHUP,36,AMNESIA,40,HYDROPUMP,45,WONDERROOM
+Abilities = SWIFTSWIM,CLOUDNINE
+HiddenAbilities = SIMPLE
+Moves = 0,CALMMIND,1,AQUAJET,1,SCRATCH,1,TAILWHIP,1,WATERGUN,1,CONFUSION,9,FURYSWIPES,12,WATERPULSE,15,DISABLE,18,ZENHEADBUTT,21,SCREECH,24,AQUATAIL,27,SOAK,30,PSYCHUP,34,PSYSHOCK,36,AMNESIA,40,HYDROPUMP,42,PSYCHIC,45,WONDERROOM
 TutorMoves = AERIALACE,AMNESIA,AQUATAIL,ATTRACT,BLIZZARD,BODYSLAM,BRICKBREAK,BRINE,CALMMIND,CAPTIVATE,CONFIDE,COUNTER,DIG,DIVE,DOUBLEEDGE,DOUBLETEAM,DYNAMICPUNCH,ENCORE,ENDURE,FACADE,FLASH,FLING,FLIPTURN,FOCUSBLAST,FOCUSPUNCH,FRUSTRATION,FURYCUTTER,FUTURESIGHT,GIGAIMPACT,HAIL,HEADBUTT,HIDDENPOWER,HONECLAWS,HYDROPUMP,HYPERBEAM,ICEBEAM,ICEPUNCH,ICYWIND,IRONTAIL,LASERFOCUS,LIGHTSCREEN,LIQUIDATION,LOWKICK,LOWSWEEP,MEGAKICK,MEGAPUNCH,MIMIC,MUDDYWATER,MUDSLAP,NATURALGIFT,PAYDAY,POWERUPPUNCH,PROTECT,PSYCHIC,PSYCHUP,PSYSHOCK,RAINDANCE,REST,RETURN,ROCKCLIMB,ROCKSMASH,ROLEPLAY,ROUND,SCALD,SCREECH,SECRETPOWER,SEISMICTOSS,SHADOWCLAW,SIGNALBEAM,SLEEPTALK,SNORE,STRENGTH,SUBSTITUTE,SURF,SWAGGER,SWIFT,TELEKINESIS,WATERFALL,WATERPULSE,WHIRLPOOL,WONDERROOM,WORRYSEED,ZENHEADBUTT
 EggGroups = Water1,Field
 HatchSteps = 5120
@@ -1609,7 +1609,7 @@ Category = Tadpole
 Pokedex = Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.
 Generation = 1
 WildItemUncommon = KINGSROCK
-Evolutions = POLIWRATH,Item,WATERSTONE,POLITOED,TradeItem,KINGSROCK
+Evolutions = POLIWRATH,Item,WATERSTONE,POLITOED,HoldItem,KINGSROCK
 #-------------------------------
 [POLIWRATH]
 Name = Poliwrath
@@ -1690,7 +1690,7 @@ Category = Psi
 Pokedex = It is rumored that a boy with psychic abilities suddenly transformed into Kadabra while he was assisting research into extrasensory powers.
 Generation = 1
 WildItemUncommon = TWISTEDSPOON
-Evolutions = ALAKAZAM,Trade,
+Evolutions = ALAKAZAM,Level,40
 #-------------------------------
 [ALAKAZAM]
 Name = Alakazam
@@ -1771,7 +1771,7 @@ Category = Superpower
 Pokedex = A belt is worn by a Machoke to keep its overwhelming power under control. Because it is so dangerous, no one has ever removed the belt.
 Generation = 1
 WildItemUncommon = FOCUSBAND
-Evolutions = MACHAMP,Trade,
+Evolutions = MACHAMP,Level,40
 #-------------------------------
 [MACHAMP]
 Name = Machamp
@@ -1864,7 +1864,7 @@ CatchRate = 45
 Happiness = 50
 Abilities = CHLOROPHYLL
 HiddenAbilities = GLUTTONY
-Moves = 0,LEAFTORNADO,1,STOCKPILE,1,SWALLOW,1,SPITUP,1,GROWTH,1,WRAP,1,POISONPOWDER,1,STUNSPORE,1,ACID,1,KNOCKOFF,1,GASTROACID,1,POISONJAB,1,SLAM,1,VINEWHIP,1,SLEEPPOWDER,1,SWEETSCENT,1,RAZORLEAF,32,LEAFSTORM,44,LEAFBLADE
+Moves = 0,LEAFTORNADO,1,SOLARBLADE,1,CRUNCH,1,SUNNYDAY,1,STOCKPILE,1,SWALLOW,1,SPITUP,1,GROWTH,1,WRAP,1,POISONPOWDER,1,STUNSPORE,1,ACID,1,KNOCKOFF,1,GASTROACID,1,POISONJAB,1,SLAM,1,VINEWHIP,1,SLEEPPOWDER,1,SWEETSCENT,1,RAZORLEAF,32,LEAFSTORM,44,LEAFBLADE
 TutorMoves = ATTRACT,BIND,BODYSLAM,BULLETSEED,CAPTIVATE,CONFIDE,CUT,DOUBLEEDGE,DOUBLETEAM,ENDURE,ENERGYBALL,FACADE,FLASH,FRUSTRATION,GASTROACID,GIGADRAIN,GIGAIMPACT,GRASSKNOT,HIDDENPOWER,HYPERBEAM,INFESTATION,KNOCKOFF,MIMIC,NATURALGIFT,NATUREPOWER,POISONJAB,PROTECT,REFLECT,REST,RETURN,ROUND,SECRETPOWER,SEEDBOMB,SLEEPTALK,SLUDGEBOMB,SNORE,SOLARBEAM,SUBSTITUTE,SUCKERPUNCH,SUNNYDAY,SWAGGER,SWORDSDANCE,SYNTHESIS,THIEF,VENOSHOCK,WORRYSEED
 EggGroups = Grass
 HatchSteps = 5120
@@ -1984,7 +1984,7 @@ Category = Rock
 Pokedex = They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and huge boulders with thunderous tackles.
 Generation = 1
 WildItemUncommon = EVERSTONE
-Evolutions = GOLEM,Trade,
+Evolutions = GOLEM,Level,40
 #-------------------------------
 [GOLEM]
 Name = Golem
@@ -2022,9 +2022,9 @@ BaseExp = 82
 EVs = SPEED,1
 CatchRate = 190
 Happiness = 50
-Abilities = RUNAWAY,FLASHFIRE
-HiddenAbilities = FLAMEBODY
-Moves = 1,TACKLE,1,GROWL,5,TAILWHIP,10,EMBER,15,FLAMECHARGE,20,AGILITY,25,FLAMEWHEEL,30,STOMP,35,FIRESPIN,41,TAKEDOWN,45,INFERNO,50,FIREBLAST,55,FLAREBLITZ
+Abilities = SAPSIPPER,FLASHFIRE
+HiddenAbilities = RECKLESS
+Moves = 1,TACKLE,1,GROWL,5,TAILWHIP,10,EMBER,15,FLAMECHARGE,20,AGILITY,23,DOUBLEKICK,25,FLAMEWHEEL,30,STOMP,35,FIRESPIN,39,HIGHHORSEPOWER,41,TAKEDOWN,45,INFERNO,50,FIREBLAST,52,WILDCHARGE,55,FLAREBLITZ
 TutorMoves = AGILITY,ALLYSWITCH,ATTRACT,BODYSLAM,BOUNCE,CAPTIVATE,CHARM,CONFIDE,DOUBLEEDGE,DOUBLETEAM,ECHOEDVOICE,ENDURE,EXPANDINGFORCE,FACADE,FIREBLAST,FIRESPIN,FLAMECHARGE,FLAMETHROWER,FLAREBLITZ,FRUSTRATION,HEADBUTT,HEATWAVE,HIDDENPOWER,HIGHHORSEPOWER,INCINERATE,IRONTAIL,LOWKICK,MIMIC,MYSTICALFIRE,NATURALGIFT,OVERHEAT,PLAYROUGH,PROTECT,REST,RETURN,ROUND,SECRETPOWER,SLEEPTALK,SNORE,SOLARBEAM,SOLARBLADE,STRENGTH,SUBSTITUTE,SUNNYDAY,SWAGGER,SWIFT,WILDCHARGE,WILLOWISP
 EggMoves = ALLYSWITCH,CHARM,DOUBLEEDGE,DOUBLEKICK,FLAMEWHEEL,HIGHHORSEPOWER,HORNDRILL,HYPNOSIS,LOWKICK,MORNINGSUN,THRASH
 EggGroups = Field
@@ -2042,16 +2042,16 @@ Evolutions = RAPIDASH,Level,40
 [RAPIDASH]
 Name = Rapidash
 Types = FIRE
-BaseStats = 65,100,70,105,80,80
+BaseStats = 65,105,70,115,80,80
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 175
 EVs = SPEED,2
 CatchRate = 60
 Happiness = 50
-Abilities = RUNAWAY,FLASHFIRE
-HiddenAbilities = FLAMEBODY
-Moves = 0,SMARTSTRIKE,1,MEGAHORN,1,POISONJAB,1,TACKLE,1,QUICKATTACK,1,GROWL,1,TAILWHIP,1,EMBER,15,FLAMECHARGE,20,AGILITY,25,FLAMEWHEEL,30,STOMP,35,FIRESPIN,43,TAKEDOWN,49,INFERNO,56,FIREBLAST,63,FLAREBLITZ
+Abilities = SAPSIPPER,FLASHFIRE
+HiddenAbilities = RECKLESS
+Moves = 0,SMARTSTRIKE,1,MEGAHORN,1,POISONJAB,1,TACKLE,1,QUICKATTACK,1,GROWL,1,TAILWHIP,1,EMBER,15,FLAMECHARGE,20,AGILITY,23,DOUBLEKICK,25,FLAMEWHEEL,30,STOMP,35,FIRESPIN,41,BOUNCE,43,TAKEDOWN,43,HIGHHORSEPOWER,49,INFERNO,53,WILDCHARGE,56,FIREBLAST,63,FLAREBLITZ
 TutorMoves = AGILITY,ALLYSWITCH,ATTRACT,BATONPASS,BODYSLAM,BOUNCE,CAPTIVATE,CHARM,CONFIDE,DOUBLEEDGE,DOUBLETEAM,DRILLRUN,ECHOEDVOICE,ENDURE,FACADE,FIREBLAST,FIRESPIN,FLAMECHARGE,FLAMETHROWER,FLAREBLITZ,FRUSTRATION,GIGAIMPACT,HEADBUTT,HEATWAVE,HIDDENPOWER,HIGHHORSEPOWER,HYPERBEAM,INCINERATE,IRONTAIL,LOWKICK,MEGAHORN,MIMIC,MYSTICALFIRE,NATURALGIFT,OVERHEAT,PAYDAY,PLAYROUGH,POISONJAB,PROTECT,REST,RETURN,ROUND,SCORCHINGSANDS,SECRETPOWER,SLEEPTALK,SMARTSTRIKE,SNORE,SOLARBEAM,SOLARBLADE,STRENGTH,SUBSTITUTE,SUNNYDAY,SWAGGER,SWIFT,SWORDSDANCE,THROATCHOP,WILDCHARGE,WILLOWISP
 EggGroups = Field
 HatchSteps = 5120
@@ -2090,7 +2090,7 @@ Category = Dopey
 Pokedex = It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends whole days just loafing at the water's edge.
 Generation = 1
 WildItemUncommon = LAGGINGTAIL
-Evolutions = SLOWBRO,Level,37,SLOWKING,TradeItem,KINGSROCK
+Evolutions = SLOWBRO,Level,37,SLOWKING,HoldItem,KINGSROCK
 #-------------------------------
 [SLOWBRO]
 Name = Slowbro
@@ -2175,16 +2175,16 @@ Evolutions = MAGNEZONE,Item,THUNDERSTONE,MAGNEZONE,LocationFlag,Magnetic
 [FARFETCHD]
 Name = Farfetch'd
 Types = NORMAL,FLYING
-BaseStats = 52,90,55,60,58,62
+BaseStats = 77,90,80,90,58,72
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 132
 EVs = ATTACK,1
 CatchRate = 45
 Happiness = 50
-Abilities = KEENEYE,INNERFOCUS
-HiddenAbilities = DEFIANT
-Moves = 1,PECK,1,SANDATTACK,5,LEER,10,FURYCUTTER,15,CUT,20,AERIALACE,25,AIRCUTTER,30,KNOCKOFF,35,FALSESWIPE,40,SLASH,45,SWORDSDANCE,50,AIRSLASH,55,LEAFBLADE,60,AGILITY,65,BRAVEBIRD
+Abilities = SNIPER
+HiddenAbilities = SNIPER
+Moves = 1,PECK,1,SANDATTACK,5,LEER,10,FURYCUTTER,15,CUT,20,AERIALACE,25,AIRCUTTER,30,KNOCKOFF,35,FALSESWIPE,38,NIGHTSLASH,40,SLASH,43,PSYCHOCUT,45,SWORDSDANCE,50,AIRSLASH,55,LEAFBLADE,60,AGILITY,65,BRAVEBIRD
 TutorMoves = ACROBATICS,AERIALACE,AGILITY,AIRCUTTER,AIRSLASH,ATTRACT,BATONPASS,BODYSLAM,BRAVEBIRD,BRUTALSWING,CAPTIVATE,CLOSECOMBAT,CONFIDE,COVET,CUT,DEFOG,DOUBLEEDGE,DOUBLETEAM,DUALWINGBEAT,ENDURE,FACADE,FALSESWIPE,FLY,FOCUSENERGY,FRUSTRATION,FURYCUTTER,HEADBUTT,HEATWAVE,HELPINGHAND,HIDDENPOWER,IRONTAIL,KNOCKOFF,LASERFOCUS,LASTRESORT,LEAFBLADE,MIMIC,MUDSLAP,NATURALGIFT,OMINOUSWIND,PLUCK,POISONJAB,PROTECT,PSYCHUP,REST,RETALIATE,RETURN,REVENGE,ROOST,ROUND,SECRETPOWER,SKYATTACK,SLEEPTALK,SNORE,SOLARBLADE,STEELWING,SUBSTITUTE,SUNNYDAY,SWAGGER,SWIFT,SWORDSDANCE,TAILWIND,THIEF,THROATCHOP,TWISTER,UPROAR,UTURN,WORKUP
 EggMoves = COVET,CURSE,FEATHERDANCE,FEINT,FINALGAMBIT,FIRSTIMPRESSION,FLAIL,GUST,LEAFBLADE,MUDSLAP,NIGHTSLASH,QUICKATTACK,REVENGE,ROOST,SIMPLEBEAM,SKYATTACK
 EggGroups = Flying,Field
@@ -2197,7 +2197,7 @@ Habitat = Grassland
 Category = Wild Duck
 Pokedex = It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.
 Generation = 1
-WildItemUncommon = LEEK
+WildItemCommon = LEEK
 Evolutions = SIRFETCHD,None,
 #-------------------------------
 [DODUO]
@@ -2465,7 +2465,7 @@ Habitat = Cave
 Category = Gas
 Pokedex = If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.
 Generation = 1
-Evolutions = GENGAR,Trade,
+Evolutions = GENGAR,Level,40
 #-------------------------------
 [GENGAR]
 Name = Gengar
@@ -2516,7 +2516,7 @@ Habitat = Cave
 Category = Rock Snake
 Pokedex = There is a magnet in its brain that prevents an Onix from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.
 Generation = 1
-Evolutions = STEELIX,TradeItem,METALCOAT
+Evolutions = STEELIX,HoldItem,METALCOAT
 #-------------------------------
 [DROWZEE]
 Name = Drowzee
@@ -2963,7 +2963,7 @@ Habitat = RoughTerrain
 Category = Drill
 Pokedex = Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.
 Generation = 1
-Evolutions = RHYPERIOR,TradeItem,PROTECTOR
+Evolutions = RHYPERIOR,HoldItem,PROTECTOR
 #-------------------------------
 [CHANSEY]
 Name = Chansey
@@ -3099,7 +3099,7 @@ Category = Dragon
 Pokedex = The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.
 Generation = 1
 WildItemUncommon = DRAGONSCALE
-Evolutions = KINGDRA,TradeItem,DRAGONSCALE
+Evolutions = KINGDRA,HoldItem,DRAGONSCALE
 #-------------------------------
 [GOLDEEN]
 Name = Goldeen
@@ -3262,7 +3262,7 @@ Habitat = Grassland
 Category = Mantis
 Pokedex = Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.
 Generation = 1
-Evolutions = SCIZOR,TradeItem,METALCOAT
+Evolutions = SCIZOR,HoldItem,METALCOAT
 #-------------------------------
 [JYNX]
 Name = Jynx
@@ -3314,7 +3314,7 @@ Category = Electric
 Pokedex = When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use Electabuzz as lightning rods.
 Generation = 1
 WildItemUncommon = ELECTIRIZER
-Evolutions = ELECTIVIRE,TradeItem,ELECTIRIZER
+Evolutions = ELECTIVIRE,HoldItem,ELECTIRIZER
 #-------------------------------
 [MAGMAR]
 Name = Magmar
@@ -3341,7 +3341,7 @@ Category = Spitfire
 Pokedex = In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees.
 Generation = 1
 WildItemUncommon = MAGMARIZER
-Evolutions = MAGMORTAR,TradeItem,MAGMARIZER
+Evolutions = MAGMORTAR,HoldItem,MAGMARIZER
 #-------------------------------
 [PINSIR]
 Name = Pinsir
@@ -3626,7 +3626,7 @@ Habitat = Urban
 Category = Virtual
 Pokedex = It is capable of reverting itself entirely back to program data in order to enter cyberspace. A Porygon is copy-protected so it cannot be duplicated.
 Generation = 1
-Evolutions = PORYGON2,TradeItem,UPGRADE
+Evolutions = PORYGON2,HoldItem,UPGRADE
 #-------------------------------
 [OMANYTE]
 Name = Omanyte
@@ -6146,7 +6146,7 @@ Habitat = Urban
 Category = Virtual
 Pokedex = It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own.
 Generation = 2
-Evolutions = PORYGONZ,TradeItem,DUBIOUSDISC
+Evolutions = PORYGONZ,HoldItem,DUBIOUSDISC
 #-------------------------------
 [STANTLER]
 Name = Stantler
@@ -9220,7 +9220,7 @@ Habitat = WatersEdge
 Category = Fish
 Pokedex = Feebas live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few trainers raise it.
 Generation = 3
-Evolutions = MILOTIC,TradeItem,PRISMSCALE,MILOTIC,Beauty,170
+Evolutions = MILOTIC,HoldItem,PRISMSCALE,MILOTIC,Beauty,170
 #-------------------------------
 [MILOTIC]
 Name = Milotic
@@ -9409,7 +9409,7 @@ Category = Beckon
 Pokedex = It is thought that its body is hollow with only a spectral ball of fire burning inside. However, no one has been able to confirm this theory as fact.
 Generation = 3
 WildItemUncommon = SPELLTAG
-Evolutions = DUSKNOIR,TradeItem,REAPERCLOTH
+Evolutions = DUSKNOIR,HoldItem,REAPERCLOTH
 #-------------------------------
 [TROPIUS]
 Name = Tropius
@@ -9674,7 +9674,7 @@ Pokedex = A Clamperl slams its shell closed on prey to prevent escape. The pearl
 Generation = 3
 WildItemCommon = PEARL
 WildItemUncommon = BIGPEARL
-Evolutions = HUNTAIL,TradeItem,DEEPSEATOOTH,GOREBYSS,TradeItem,DEEPSEASCALE
+Evolutions = HUNTAIL,HoldItem,DEEPSEATOOTH,GOREBYSS,HoldItem,DEEPSEASCALE
 #-------------------------------
 [HUNTAIL]
 Name = Huntail
@@ -13697,7 +13697,7 @@ Pokedex = Because its energy was too great to be contained, the energy leaked an
 Generation = 5
 WildItemCommon = EVERSTONE
 WildItemUncommon = HARDSTONE
-Evolutions = GIGALITH,Trade,
+Evolutions = GIGALITH,Level,40
 #-------------------------------
 [GIGALITH]
 Name = Gigalith
@@ -13901,7 +13901,7 @@ Shape = Bipedal
 Category = Muscular
 Pokedex = They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.
 Generation = 5
-Evolutions = CONKELDURR,Trade,
+Evolutions = CONKELDURR,Level,40
 #-------------------------------
 [CONKELDURR]
 Name = Conkeldurr
@@ -15302,7 +15302,7 @@ Shape = Bipedal
 Category = Clamping
 Pokedex = When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.
 Generation = 5
-Evolutions = ESCAVALIER,TradeSpecies,SHELMET
+Evolutions = ESCAVALIER,Level,36
 #-------------------------------
 [ESCAVALIER]
 Name = Escavalier
@@ -16001,7 +16001,7 @@ Shape = Head
 Category = Snail
 Pokedex = It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.
 Generation = 5
-Evolutions = ACCELGOR,TradeSpecies,KARRABLAST
+Evolutions = ACCELGOR,Level,36
 #-------------------------------
 [ACCELGOR]
 Name = Accelgor
@@ -17661,7 +17661,7 @@ Shape = HeadArms
 Category = Perfume
 Pokedex = It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.
 Generation = 6
-Evolutions = AROMATISSE,TradeItem,SACHET
+Evolutions = AROMATISSE,HoldItem,SACHET
 #-------------------------------
 [AROMATISSE]
 Name = Aromatisse
@@ -17711,7 +17711,7 @@ Shape = HeadLegs
 Category = Cotton Candy
 Pokedex = To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.
 Generation = 6
-Evolutions = SLURPUFF,TradeItem,WHIPPEDDREAM
+Evolutions = SLURPUFF,HoldItem,WHIPPEDDREAM
 #-------------------------------
 [SLURPUFF]
 Name = Slurpuff
@@ -18310,7 +18310,7 @@ Shape = HeadArms
 Category = Stump
 Pokedex = These Pokémon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.
 Generation = 6
-Evolutions = TREVENANT,Trade,
+Evolutions = TREVENANT,Level,40
 #-------------------------------
 [TREVENANT]
 Name = Trevenant
@@ -18361,7 +18361,7 @@ Category = Pumpkin
 Pokedex = When taking spirits to the afterlife, small Pumpkaboo prefer the spirits of children to those of adults.
 Generation = 6
 Flags = InheritFormFromMother
-Evolutions = GOURGEIST,Trade,
+Evolutions = GOURGEIST,Level,40
 #-------------------------------
 [GOURGEIST]
 Name = Gourgeist
