@@ -1525,10 +1525,10 @@ EggGroups = Undiscovered
 #-------------------------------
 [GRENINJA,2]
 FormName = Ash-Greninja
-BaseStats = 72,145,67,132,153,71
+BaseStats = 80,135,75,132,153,80
 BaseExp = 320
-Abilities = BATTLEBOND
-HiddenAbilities = BATTLEBOND
+Abilities = PROTEAN
+HiddenAbilities = PROTEAN
 Generation = 7
 #-------------------------------
 [VIVILLON,1]
@@ -1662,6 +1662,8 @@ FormName = Pharaoh Trim
 #-------------------------------
 [MEOWSTIC,1]
 FormName = Female
+BaseStats = 74,48,76,104,100,81
+Abilities = KEENEYE,COMPETITIVE
 HiddenAbilities = COMPETITIVE
 Moves = 1,STOREDPOWER,1,MEFIRST,1,MAGICALLEAF,1,SCRATCH,1,LEER,1,COVET,1,CONFUSION,5,COVET,9,CONFUSION,13,LIGHTSCREEN,17,PSYBEAM,19,FAKEOUT,22,DISARMINGVOICE,25,PSYSHOCK,28,CHARGEBEAM,31,SHADOWBALL,35,EXTRASENSORY,40,PSYCHIC,43,ROLEPLAY,45,SIGNALBEAM,48,SUCKERPUNCH,50,FUTURESIGHT,53,STOREDPOWER
 Color = White
@@ -1741,7 +1743,7 @@ Generation = 7
 #-------------------------------
 [ZYGARDE,2]
 FormName = Complete Forme
-BaseStats = 216,100,121,85,91,95
+BaseStats = 216,110,121,85,91,95
 BaseExp = 354
 Abilities = POWERCONSTRUCT
 HiddenAbilities = POWERCONSTRUCT
