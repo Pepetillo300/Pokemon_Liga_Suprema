@@ -6449,3 +6449,15 @@ BackSprite = 0,6
 FrontSprite = 0,9
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[EEVEON]
+BackSprite = 0,36
+FrontSprite = 0,32
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[BRIGHTEON]
+BackSprite = 0,45
+FrontSprite = 0,26
+ShadowX = 0
+ShadowSize = 2
