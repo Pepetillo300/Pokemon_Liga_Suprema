@@ -6461,3 +6461,9 @@ BackSprite = 0,45
 FrontSprite = 0,26
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[SPEARTIC]
+BackSprite = 0,25
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 2
