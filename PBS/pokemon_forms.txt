@@ -50,7 +50,7 @@ Generation = 6
 [BEEDRILL,1]
 FormName = Mega Beedrill
 MegaStone = BEEDRILLITE
-BaseStats = 80,150,40,145,15,80
+BaseStats = 80,155,52,145,15,80
 BaseExp = 284
 Abilities = ADAPTABILITY
 HiddenAbilities = ADAPTABILITY
