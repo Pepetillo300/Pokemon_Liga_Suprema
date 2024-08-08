@@ -6573,4 +6573,56 @@ FieldUse = OnPokemon
 Flags = KeyItem
 Description = A machine that allows you to change your Pokémon's nature.
 #-------------------------------
-
+[IVHPCAPSULE]
+Name = Capsule Hp
+NamePlural = Capsules Hp
+Pocket = 2
+Price = 0
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A capsule that increases the individual value of a pokemon´s health by 15 points.
+#-------------------------------
+[IVATTACKCAPSULE]
+Name = Capsule Attack
+NamePlural = Capsules Attack
+Pocket = 2
+Price = 0
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A capsule that increases the individual value of a pokemon´s attack by 15 points.
+#-------------------------------
+[IVDEFENSECAPSULE]
+Name = Capsule Defense
+NamePlural = Capsules Defense
+Pocket = 2
+Price = 0
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A capsule that increases the individual value of a pokemon´s defense by 15 points.
+#-------------------------------
+[IVSPECIALATTACKCAPSULE]
+Name = Capsule Sp.Attack
+NamePlural = Capsules Sp.Attack
+Pocket = 2
+Price = 0
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A capsule that increases the individual value of a pokemon´s special attack by 15 points.
+#-------------------------------
+[IVSPECIALDEFENSECAPSULE]
+Name = Capsule Sp.Defense
+NamePlural = Capsules Sp.Defense
+Pocket = 2
+Price = 0
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A capsule that increases the individual value of a pokemon´s special defense by 15 points.
+#-------------------------------
+[IVSPEEDCAPSULE]
+Name = Capsule Speed
+NamePlural = Capsules Speed
+Pocket = 2
+Price = 0
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A capsule that increases the individual value of a pokemon´s speed by 15 points.
