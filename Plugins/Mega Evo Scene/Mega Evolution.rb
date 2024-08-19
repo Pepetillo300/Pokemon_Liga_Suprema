@@ -325,3 +325,32 @@ def pbMegaEvolve(idxBattler)
     pbCalculatePriority(false, [idxBattler]) if Settings::RECALCULATE_TURN_ORDER_AFTER_MEGA_EVOLUTION
   end
 end
+
+# Método que coge un pokemon con una forma con una habilidad especial y lo Cambia de forma con el plugin de los gráficos de megavolucion.
+def pbChangePowerForm(idxBattler)
+	battler = @battlers[idxBattler]
+	trainerName = pbGetOwnerName(idxBattler)
+    old_ability = battler.ability_id
+	# Break Illusion
+    if battler.hasActiveAbility?(:ILLUSION)
+      Battle::AbilityEffects.triggerOnBeingHit(battler.ability, nil, battler, nil, self)
+    end
+	# Change Form
+	pbDisplay(_INTL("{1} is powering up!", battler.pbThis))
+	megascene = SceneMegaEvolution.new
+	megascene.start(time,backdrop,battler.pokemon)
+	#Change Form
+	battler.form += 1
+	battler.form = battler.pokemon.form
+    battler.pbUpdate(true)
+    @scene.pbChangePokemon(battler, battler.pokemon)
+    @scene.pbRefreshOne(idxBattler)
+	# End animation
+	megascene.endScene
+	formName = battler.pokemon.speciesName
+	pbDisplay(_INTL("{1} has awakened into Mega {2}!", battler.pbThis, formName))
+	battler.pbOnLosingAbility(old_ability)
+    battler.pbTriggerAbilityOnGainingIt
+    # Recalculate turn order
+    pbCalculatePriority(false, [idxBattler]) if Settings::RECALCULATE_TURN_ORDER_AFTER_MEGA_EVOLUTION
+end

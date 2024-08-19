@@ -6467,3 +6467,15 @@ BackSprite = 0,25
 FrontSprite = 0,16
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[INFERNAPE,1]
+BackSprite = 0,21
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[INFERNAPE,2]
+BackSprite = 0,21
+FrontSprite = 0,20
+ShadowX = 0
+ShadowSize = 2
