@@ -15,12 +15,11 @@ EventHandlers.add(:following_pkmn_item, :battle_map, proc { |_pkmn, _random_val|
 #-------------------------------------------------------------------------------
 EventHandlers.add(:following_pkmn_item, :regular, proc { |_pkmn, _random_val|
   items = [
-    :POTION,        :SUPERPOTION,  :FULLRESTORE,    :REVIVE,        :PPUP,
-    :PPMAX,         :RARECANDY,    :REPEL,          :MAXREPEL,      :ESCAPEROPE,
-    :HONEY,         :TINYMUSHROOM, :PEARL,          :NUGGET,        :GREATBALL,
-    :ULTRABALL,     :THUNDERSTONE, :MOONSTONE,      :SUNSTONE,      :DUSKSTONE,
-    :REDAPRICORN,   :BLUEAPRICORN, :YELLOWAPRICORN, :GREENAPRICORN, :PINKAPRICORN,
-    :BLACKAPRICORN, :WHITEAPRICORN
+	:PPUP,			:PPMAX,			:RARECANDY,		:REPEL,			:MAXREPEL,      
+	:ESCAPEROPE,	:HONEY,        	:TINYMUSHROOM, 	:PEARL,         :NUGGET,
+	:GREATBALL,	    :ULTRABALL,		:THUNDERSTONE, 	:MOONSTONE,     :SUNSTONE,      
+	:DUSKSTONE,		:REDAPRICORN,  	:BLUEAPRICORN, 	:YELLOWAPRICORN,:GREENAPRICORN,
+	:PINKAPRICORN,	:BLACKAPRICORN, :WHITEAPRICORN
   ]
   # If no message or quantity is specified the default message is used and the quantity of item is 1
   next true if FollowingPkmn.item(items.sample)

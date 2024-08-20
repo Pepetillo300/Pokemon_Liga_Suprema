@@ -3,7 +3,7 @@ module LevelCapsEX
 
   # Set this to the Game Variable which controls the value of the
   # level cap
-  LEVEL_CAP_VARIABLE      = 76
+  LEVEL_CAP_VARIABLE      = 51
 
   # Set this to the Game Variable which controls the mode of the
   # level cap. The 3 modes are:
@@ -13,7 +13,7 @@ module LevelCapsEX
   #   crosses the level cap.
   #   3 (Obedience Cap)  - The Pokemon will gain disobey the player
   #   when it crosses the level cap.
-  LEVEL_CAP_MODE_VARIABLE = 77
+  LEVEL_CAP_MODE_VARIABLE = 52
 
   # Set this to the default mode of the Level Cap
   DEFAULT_LEVEL_CAP_MODE  = 0

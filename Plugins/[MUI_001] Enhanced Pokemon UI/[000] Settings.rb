@@ -52,5 +52,5 @@ module Settings
   #-----------------------------------------------------------------------------
   # The switch number used to allow the player to access the Enhanced Stats display.
   #-----------------------------------------------------------------------------
-  ENHANCED_STATS_SWITCH = 61
+  ENHANCED_STATS_SWITCH = 77
 end
