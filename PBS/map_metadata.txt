@@ -1,5 +1,48 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [001]   # Intro
-Name = Intro
+Name = Lugar Lejano
 #-------------------------------
+[002]   # Crucero Supremo
+Name = Crucero Supremo
+ShowArea = true
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+#-------------------------------
+[004]   # Puerto de Isla Suprema
+Name = Ciudad Suprema (Puerto)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = city
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+Environment = None
+#-------------------------------
+[005]   # Embarcadero
+Name = Puerto Supremo
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = city
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+#-------------------------------
+[006]   # Edificio Muelle
+Name = Puerto Supremo
+BattleBack = indoor3
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
