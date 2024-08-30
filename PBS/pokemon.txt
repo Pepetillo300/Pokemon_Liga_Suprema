@@ -8114,7 +8114,7 @@ Evolutions = MEDICHAM,Level,37
 [MEDICHAM]
 Name = Medicham
 Types = FIGHTING,PSYCHIC
-BaseStats = 75,65,75,80,60,75
+BaseStats = 85,65,75,80,60,75
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 144

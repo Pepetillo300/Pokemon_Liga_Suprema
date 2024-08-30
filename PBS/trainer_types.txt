@@ -9,3 +9,460 @@ BaseMoney = 60
 Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
+#-------------------------------
+[ALEJANDRO]
+Name = Organizador
+Gender = Male
+BaseMoney = 75
+#-------------------------------
+[ALEJANDRO_1]
+Name = Maestro Pokémon
+Gender = Male
+BaseMoney = 120
+#-------------------------------
+[ALEX]
+Name = Rival
+Gender = Male
+BaseMoney = 80
+SkillLevel = 100
+#-------------------------------
+[AMAPOLA]
+Name = Científica Team Flare
+Gender = Female
+BaseMoney = 95
+SkillLevel = 100
+#-------------------------------
+[ANDRES]
+Name = Alto Mando
+Gender = Male
+BaseMoney = 110
+#-------------------------------
+[ARTISTA]
+Name = Artista
+Gender = Male
+BaseMoney = 35
+#-------------------------------
+[ATENEA]
+Name = Alta Ejecutiva
+Gender = Female
+BaseMoney = 105
+#-------------------------------
+[ATLAS]
+Name = Alto Ejecutivo
+Gender = Male
+BaseMoney = 105
+#-------------------------------
+[AZ]
+Name = Lider
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[BEGONIA]
+Name = Científica Team Flare
+Gender = Female
+BaseMoney = 95
+SkillLevel = 100
+#-------------------------------
+[CALENDULA]
+Name = Científica Team Flare
+Gender = Female
+BaseMoney = 95
+SkillLevel = 100
+#-------------------------------
+[CALVO]
+Name = Calvo
+Gender = Male
+BaseMoney = 35
+#-------------------------------
+[CAMPISTA]
+Name = Campista
+Gender = Male
+BaseMoney = 25
+#-------------------------------
+[CAMPISTA_MUJER]
+Name = Dominguera
+Gender = Female
+BaseMoney = 25
+#-------------------------------
+[CARLA]
+Name = Rival
+Gender = Female
+BaseMoney = 80
+SkillLevel = 100
+#-------------------------------
+[CARLOS]
+Name = Alto Mando
+Gender = Male
+BaseMoney = 110
+#-------------------------------
+[CAZABICHOS]
+Name = Cazabichos
+Gender = Male
+BaseMoney = 20
+#-------------------------------
+[CERES]
+Name = Comandante Galaxia
+Gender = Female
+BaseMoney = 95
+SkillLevel = 100
+#-------------------------------
+[CHICA]
+Name = Chica
+Gender = Female
+BaseMoney = 25
+#-------------------------------
+[CICLISTA_HOMBRE]
+Name = Ciclista
+Gender = Male
+BaseMoney = 35
+#-------------------------------
+[CICLISTA_MUJER]
+Name = Ciclista
+Gender = Female
+BaseMoney = 35
+#-------------------------------
+[CIENTIFICA]
+Name = Cientifica
+Gender = Female
+BaseMoney = 55
+#-------------------------------
+[CIENTIFICO]
+Name = Cientifico
+Gender = Male
+BaseMoney = 55
+#-------------------------------
+[DUQUE]
+Name = Duque
+Gender = Male
+BaseMoney = 75
+#-------------------------------
+[DUQUESA]
+Name = Duquesa
+Gender = Female
+BaseMoney = 75
+#-------------------------------
+[ELOY]
+Name = Rival
+Gender = Male
+BaseMoney = 80
+SkillLevel = 100
+#-------------------------------
+[EMMA]
+Name = Rival
+Gender = Female
+BaseMoney = 80
+SkillLevel = 100
+#-------------------------------
+[ENTRENADOR_GUAY]
+Name = Entrenador Guay
+Gender = Male
+BaseMoney = 65
+#-------------------------------
+[ENTRENADOR_GUAY_HIELO]
+Name = Entrenador Guay
+Gender = Male
+BaseMoney = 65
+#-------------------------------
+[ENTRENADORA_GUAY]
+Name = Entrenadora Guay
+Gender = Female
+BaseMoney = 65
+#-------------------------------
+[ENTRENADORA_GUAY_HIELO]
+Name = Entrenadora Guay
+Gender = Female
+BaseMoney = 65
+#-------------------------------
+[ESQUIADOR]
+Name = Esquiador
+Gender = Male
+BaseMoney = 45
+#-------------------------------
+[ESQUIADORA]
+Name = Esquiadora
+Gender = Female
+BaseMoney = 45
+#-------------------------------
+[ESTUADIANTE_HOMBRE]
+Name = Estudiante
+Gender = Male
+BaseMoney = 15
+#-------------------------------
+[ESTUADIANTE_MUJER]
+Name = Estudiante
+Gender = Female
+BaseMoney = 15
+#-------------------------------
+[GHECHIS]
+Name = Lider Equipo Plasma
+Gender = Male
+BaseMoney = 110
+#-------------------------------
+[GIOVANNI]
+Name = Lider Team Rocket
+Gender = Male
+BaseMoney = 115
+#-------------------------------
+[GLADIO]
+Name = Lider
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[GRANJERA]
+Name = Granjera
+Gender = Female
+BaseMoney = 35
+#-------------------------------
+[GRANJERO]
+Name = Granjero
+Gender = Male
+BaseMoney = 35
+#-------------------------------
+[GUITARRISTA]
+Name = Guitarrista
+Gender = Male
+BaseMoney = 45
+#-------------------------------
+[HELIO]
+Name = Lider Equipo Galaxia
+Gender = Male
+BaseMoney = 110
+#-------------------------------
+[JORGE]
+Name = Alto Mando
+Gender = Male
+BaseMoney = 110
+#-------------------------------
+[JOVEN]
+Name = Joven
+Gender = Male
+BaseMoney = 25
+#-------------------------------
+[KARATEKA_HOMBRE]
+Name = Karateka
+Gender = Male
+BaseMoney = 45
+#-------------------------------
+[KARATEKA_MUJER]
+Name = Karateka
+Gender = Female
+BaseMoney = 45
+#-------------------------------
+[LADRON]
+Name = Ladrón
+Gender = Male
+BaseMoney = 40
+#-------------------------------
+[LYSSON]
+Name = Lider Team Flare
+Gender = Male
+BaseMoney = 110
+#-------------------------------
+[MARINERO]
+Name = Marinero
+Gender = Male
+BaseMoney = 45
+#-------------------------------
+[MEDIUM]
+Name = Medium
+Gender = Male
+BaseMoney = 45
+#-------------------------------
+[MELIA]
+Name = Científica Team Flare
+Gender = Female
+BaseMoney = 95
+SkillLevel = 100
+#-------------------------------
+[MODELO]
+Name = Modelo
+Gender = Female
+BaseMoney = 45
+#-------------------------------
+[MONTANIERO]
+Name = Montañero
+Gender = Male
+BaseMoney = 35
+#-------------------------------
+[N]
+Name = Lider
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[NADADOR]
+Name = Nadador
+Gender = Male
+BaseMoney = 40
+#-------------------------------
+[NADADORA]
+Name = Nadadora
+Gender = Female
+BaseMoney = 40
+#-------------------------------
+[NATALIA]
+Name = Rival
+Gender = Female
+BaseMoney = 80
+SkillLevel = 100
+#-------------------------------
+[NINIA]
+Name = Niña
+Gender = Female
+BaseMoney = 5
+#-------------------------------
+[NINIA_BIEN]
+Name = Niña Bien
+Gender = Female
+BaseMoney = 65
+SkillLevel = 40
+#-------------------------------
+[NINIA_FLOTADOR]
+Name = Niña Flotador
+Gender = Female
+BaseMoney = 15
+#-------------------------------
+[NINIO]
+Name = Niño
+Gender = Male
+BaseMoney = 5
+#-------------------------------
+[NINIO_BIEN]
+Name = Niño Bien
+Gender = Male
+BaseMoney = 65
+SkillLevel = 40
+#-------------------------------
+[NINIO_FLOTADOR]
+Name = Niño Flotador
+Gender = Male
+BaseMoney = 15
+#-------------------------------
+[OAK]
+Name = Lider
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[OPERARIO]
+Name = Operario
+Gender = Male
+BaseMoney = 35
+#-------------------------------
+[PAULA]
+Name = Rival
+Gender = Female
+BaseMoney = 80
+SkillLevel = 100
+#-------------------------------
+[PESCADOR]
+Name = Pescador
+Gender = Male
+BaseMoney = 35
+#-------------------------------
+[PILAR]
+Name = Rival
+Gender = Female
+BaseMoney = 80
+SkillLevel = 100
+#-------------------------------
+[POKEFAN_HOMBRE]
+Name = Pokefan
+Gender = Male
+BaseMoney = 40
+#-------------------------------
+[POKEFAN_MUJER]
+Name = Pokefan
+Gender = Female
+BaseMoney = 40
+#-------------------------------
+[POKEMANIACO]
+Name = Pokemaniaco
+Gender = Male
+BaseMoney = 40
+#-------------------------------
+[POLICIA]
+Name = Policía
+Gender = Male
+BaseMoney = 45
+#-------------------------------
+[POLO]
+Name = Lider
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[SATURNO]
+Name = Comandante Galaxia
+Gender = Male
+BaseMoney = 95
+SkillLevel = 100
+#-------------------------------
+[SENIORITA_AROMA]
+Name = Srta. Aroma
+Gender = Female
+BaseMoney = 45
+#-------------------------------
+[TEAM_FLARE_HOMBRE]
+Name = Recluta Team Flare
+Gender = Male
+BaseMoney = 50
+#-------------------------------
+[TEAM_FLARE_MUJER]
+Name = Recluta Team Flare
+Gender = Female
+BaseMoney = 50
+#-------------------------------
+[TEAM_GALAXIA_HOMBRE]
+Name = Recluta Equipo Galaxia
+Gender = Male
+BaseMoney = 50
+#-------------------------------
+[TEAM_GALAXIA_MUJER]
+Name = Recluta Equipo Galaxia
+Gender = Female
+BaseMoney = 50
+#-------------------------------
+[TEAM_PLASMA_HOMBRE]
+Name = Recluta Equipo Plasma
+Gender = Male
+BaseMoney = 50
+#-------------------------------
+[TEAM_PLASMA_MUJER]
+Name = Recluta Equipo Plasma
+Gender = Female
+BaseMoney = 50
+#-------------------------------
+[TEAM_ROCKET_HOMBRE]
+Name = Recluta Team Rocket
+Gender = Male
+BaseMoney = 50
+#-------------------------------
+[TEAM_ROCKET_MUJER]
+Name = Recluta Team Rocket
+Gender = Female
+BaseMoney = 50
+#-------------------------------
+[VENUS]
+Name = Comandante Galaxia
+Gender = Female
+BaseMoney = 95
+SkillLevel = 100
+#-------------------------------
+[VICTOR]
+Name = Alto Mando
+Gender = Male
+BaseMoney = 110
+#-------------------------------
+[VIEJA]
+Name = Vieja
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[VIEJO]
+Name = Viejo
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[XERO]
+Name = Científico Team Flare
+Gender = Male
+BaseMoney = 95
+SkillLevel = 100

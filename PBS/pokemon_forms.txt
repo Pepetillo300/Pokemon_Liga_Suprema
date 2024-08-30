@@ -884,7 +884,7 @@ Generation = 6
 [MEDICHAM,1]
 FormName = Mega Medicham
 MegaStone = MEDICHAMITE
-BaseStats = 75,105,85,100,80,85
+BaseStats = 85,105,85,100,80,85
 BaseExp = 179
 HiddenAbilities = PUREPOWER
 Generation = 6

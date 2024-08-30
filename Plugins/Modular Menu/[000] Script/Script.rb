@@ -130,7 +130,12 @@ class PokemonPauseMenu_Scene
     @sprites["background"] = Sprite.new(@viewport)
     @sprites["background"].bitmap = @bitmap
     @sprites["background"].blur_sprite(3)
-    @sprites["background"].bitmap.blt(0, 0, pbBitmap("Graphics/Pictures/PauseMenu/bg"),Rect.new(0, 0, Graphics.width, Graphics.height))
+    # Compruebo el género del entrenador
+    if $player.gender == 0
+      @sprites["background"].bitmap.blt(0, 0, pbBitmap("Graphics/Pictures/PauseMenu/bg_male"),Rect.new(0, 0, Graphics.width, Graphics.height))
+    else
+      @sprites["background"].bitmap.blt(0, 0, pbBitmap("Graphics/Pictures/PauseMenu/bg_female"),Rect.new(0, 0, Graphics.width, Graphics.height))
+    end
     bmp = pbBitmap("Graphics/Pictures/Common/scrollbar_bg")
     @sprites["background"].bitmap.blt(Graphics.width - 28, (Graphics.height - bmp.height)/2, bmp, Rect.new(0, 0, bmp.width, bmp.height))
     # initializes the scrolling panorama
