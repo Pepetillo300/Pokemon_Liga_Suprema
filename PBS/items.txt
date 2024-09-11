@@ -4248,18 +4248,18 @@ Description = A nutrient-draining attack. The user's HP is restored by half the 
 Name = TM20
 NamePlural = TM20s
 Pocket = 4
-Price = 4000
+Price = 8000
 BPPrice = 32
 FieldUse = TM
-Flags = Fling_10
-Move = SAFEGUARD
+Flags = Fling_60
+Move = HIDDENPOWER
 Description = The user creates a protective field that prevents status conditions for five turns.
 #-------------------------------
 [TM21]
 Name = TM21
 NamePlural = TM21s
 Pocket = 4
-Price = 1900
+Price = 19000
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_80

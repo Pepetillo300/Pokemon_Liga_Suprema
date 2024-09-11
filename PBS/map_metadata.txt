@@ -46,3 +46,18 @@ TrainerBattleBGM = Battle trainer
 WildVictoryBGM = Battle victory wild
 TrainerVictoryBGM = Battle victory trainer
 WildCaptureME = Battle capture success
+#-------------------------------
+[008]   # Ciudad Suprema (Este)
+Name = Cuidad Suprema (Este)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 8,14,17
+SnapEdges = true
+BattleBack = city
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+Environment = Grass

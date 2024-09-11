@@ -1,8 +1,14 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #---------------------------- 0 MEDALLAS ----------------------------
 [ALEJANDRO,Alejandro]
-LoseText = Eres muy hábil entrenando.
+LoseText =Eres muy hábil entrenando.
 Pokemon = EEVEON,23
 Gender = male
 Moves = COVET,EMBER,BRANCHPOKE,WATERGUN
 Nature = HARDY
+#-------------------------------------------
+[PILAR,Pilar]
+LoseText =Que fuerte eres. Me has vencido sin esforzarte casi.
+Pokemon = JIGGLYPUFF,4
+Gender = female
+Moves = POUND,DEFENSECURL,COPYCAT
