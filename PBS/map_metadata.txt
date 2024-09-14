@@ -12,6 +12,8 @@ WildVictoryBGM = Battle victory wild
 TrainerVictoryBGM = Battle victory trainer
 WildCaptureME = Battle capture success
 #-------------------------------
+[003]   # Isla Suprema
+#-------------------------------
 [004]   # Puerto de Isla Suprema
 Name = Ciudad Suprema (Puerto)
 Outdoor = true
@@ -47,6 +49,8 @@ WildVictoryBGM = Battle victory wild
 TrainerVictoryBGM = Battle victory trainer
 WildCaptureME = Battle capture success
 #-------------------------------
+[007]   # Interiores Puerto Supremo
+#-------------------------------
 [008]   # Ciudad Suprema (Este)
 Name = Cuidad Suprema (Este)
 Outdoor = true
@@ -60,4 +64,8 @@ TrainerBattleBGM = Battle trainer
 WildVictoryBGM = Battle victory wild
 TrainerVictoryBGM = Battle victory trainer
 WildCaptureME = Battle capture success
-Environment = Grass
+Environment = None
+#-------------------------------
+[009]   # Interiores Ciudad Suprema (Este)
+#-------------------------------
+[010]   # Centro Pokémon
