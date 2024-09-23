@@ -3836,14 +3836,14 @@ BattleUse = OnFoe
 Flags = PokeBall
 Description = A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
 #-------------------------------
-[SAFARIBALL]
-Name = Safari Ball
-NamePlural = Safari Balls
+[SUPREMEBALL]
+Name = Supreme Ball
+NamePlural = Supreme Balls
 Pocket = 3
 Price = 0
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.
+Description = A special Poké Ball that is used only in the Capture Zone. It has the logo of the Supreme League.
 #-------------------------------
 [SPORTBALL]
 Name = Sport Ball

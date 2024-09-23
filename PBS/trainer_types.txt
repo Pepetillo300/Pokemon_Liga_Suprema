@@ -78,17 +78,20 @@ BaseMoney = 35
 Name = Campista
 Gender = Male
 BaseMoney = 25
+IntroBGM = Intro DPP Joven
 #-------------------------------
 [CAMPISTA_MUJER]
 Name = Dominguera
 Gender = Female
 BaseMoney = 25
+IntroBGM = Intro DPP Chica
 #-------------------------------
 [CARLA]
 Name = Rival
 Gender = Female
 BaseMoney = 80
 SkillLevel = 100
+BattleBGM = Battle trainer videl
 #-------------------------------
 [CARLOS]
 Name = Alto Mando
@@ -99,6 +102,7 @@ BaseMoney = 110
 Name = Cazabichos
 Gender = Male
 BaseMoney = 20
+IntroBGM = Intro DPP Joven
 #-------------------------------
 [CERES]
 Name = Comandante Galaxia
@@ -110,6 +114,7 @@ SkillLevel = 100
 Name = Chica
 Gender = Female
 BaseMoney = 25
+IntroBGM = Intro DPP Chica
 #-------------------------------
 [CICLISTA_HOMBRE]
 Name = Ciclista
@@ -187,11 +192,13 @@ BaseMoney = 45
 Name = Estudiante
 Gender = Male
 BaseMoney = 15
+IntroBGM = Intro DPP Joven
 #-------------------------------
-[ESTUADIANTE_MUJER]
+[ESTUDIANTE_MUJER]
 Name = Estudiante
 Gender = Female
 BaseMoney = 15
+IntroBGM = Intro DPP Chica
 #-------------------------------
 [GHECHIS]
 Name = Lider Equipo Plasma
@@ -237,6 +244,7 @@ BaseMoney = 110
 Name = Joven
 Gender = Male
 BaseMoney = 25
+IntroBGM = Intro DPP Joven
 #-------------------------------
 [KARATEKA_HOMBRE]
 Name = Karateka
@@ -304,11 +312,13 @@ Name = Rival
 Gender = Female
 BaseMoney = 80
 SkillLevel = 100
+BattleBGM = Battle trainer videl
 #-------------------------------
 [NINIA]
 Name = Niña
 Gender = Female
 BaseMoney = 5
+IntroBGM = Intro DPP Chica
 #-------------------------------
 [NINIA_BIEN]
 Name = Niña Bien
@@ -320,11 +330,13 @@ SkillLevel = 40
 Name = Niña Flotador
 Gender = Female
 BaseMoney = 15
+IntroBGM = Intro DPP Chica
 #-------------------------------
 [NINIO]
 Name = Niño
 Gender = Male
 BaseMoney = 5
+IntroBGM = Intro DPP Joven
 #-------------------------------
 [NINIO_BIEN]
 Name = Niño Bien
@@ -336,6 +348,7 @@ SkillLevel = 40
 Name = Niño Flotador
 Gender = Male
 BaseMoney = 15
+IntroBGM = Intro DPP Joven
 #-------------------------------
 [OAK]
 Name = Lider
@@ -400,6 +413,7 @@ SkillLevel = 100
 Name = Srta. Aroma
 Gender = Female
 BaseMoney = 45
+IntroBGM = Intro DPP Aroma
 #-------------------------------
 [TEAM_FLARE_HOMBRE]
 Name = Recluta Team Flare

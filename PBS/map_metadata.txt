@@ -12,7 +12,8 @@ WildVictoryBGM = Battle victory wild
 TrainerVictoryBGM = Battle victory trainer
 WildCaptureME = Battle capture success
 #-------------------------------
-[003]   # Isla Suprema
+[003]   # Ciudad Suprema
+Name = Isla Suprema
 #-------------------------------
 [004]   # Puerto de Isla Suprema
 Name = Ciudad Suprema (Puerto)
@@ -50,6 +51,7 @@ TrainerVictoryBGM = Battle victory trainer
 WildCaptureME = Battle capture success
 #-------------------------------
 [007]   # Interiores Puerto Supremo
+Name = Interiores Puerto Supremo
 #-------------------------------
 [008]   # Ciudad Suprema (Este)
 Name = Cuidad Suprema (Este)
@@ -67,5 +69,112 @@ WildCaptureME = Battle capture success
 Environment = None
 #-------------------------------
 [009]   # Interiores Ciudad Suprema (Este)
+Name = Interiores Ciudad Suprema (Este)
 #-------------------------------
 [010]   # Centro Pokémon
+Name = Centro Pokémon
+#-------------------------------
+[011]   # Ciudad Suprma (Noreste)
+Name = Ciudad Suprema
+Outdoor = true
+Bicycle = true
+HealingSpot = 8,14,18
+SnapEdges = true
+BattleBack = city
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+#-------------------------------
+[012]   # Interiores Ciudad Suprema (Noreste)
+Name = Ciudad Suprema
+HealingSpot = 8,14,18
+BattleBack = indoor2
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+MapSize = 0,
+#-------------------------------
+[013]   # Isla Suprmea (Sur)
+Name = Ciudad Suprema
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 8,14,18
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+MapSize = 0,
+#-------------------------------
+[014]   # Entrada Zona de Capturas
+Name = Acceso Zona de Capturas
+HealingSpot = 8,14,18
+BattleBack = indoor1
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+#-------------------------------
+[015]   # Zona de Capturas (Este)
+Name = Zona de Capturas (Este)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SafariMap = true
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+Environment = Grass
+#-------------------------------
+[016]   # Zona de Capturas (Oeste)
+Name = Zona de Capturas (Oeste)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SafariMap = true
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+Environment = Grass
+#-------------------------------
+[017]   # Ruta 1 (Inicio)
+Name = Ruta 1 (Inicio)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+Environment = Grass
+#-------------------------------
+[018]   # Ruta 1 (Bosque)
+Name = Ruta 1 (Bosque)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = forest
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+Environment = Grass

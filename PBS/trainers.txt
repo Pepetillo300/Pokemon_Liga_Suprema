@@ -3,12 +3,95 @@
 [ALEJANDRO,Alejandro]
 LoseText =Eres muy hábil entrenando.
 Pokemon = EEVEON,23
-Gender = male
-Moves = COVET,EMBER,BRANCHPOKE,WATERGUN
-Nature = HARDY
+	Gender = male
+	Moves = COVET,EMBER,BRANCHPOKE,WATERGUN
+	Nature = HARDY
 #-------------------------------------------
 [PILAR,Pilar]
 LoseText =Que fuerte eres. Me has vencido sin esforzarte casi.
 Pokemon = JIGGLYPUFF,4
-Gender = female
-Moves = POUND,DEFENSECURL,COPYCAT
+	Gender = female
+	Moves = POUND,DEFENSECURL,COPYCAT
+#-------------------------------------------
+[CARLA,Carla]
+LoseText =No la has visto mas gorda en tu vida.
+Pokemon = PIPLUP,5
+	Gender = female
+	Moves = POUND,GROWL
+#-------------------------------------------
+[NATALIA, Natalia]
+LoseText =Bah, ya te pillaré.
+Pokemon = CHIKORITA,5
+	Gender = female
+	Moves = TACKLE,GROWL
+#-------------------------------------------
+[JOVEN, Chano]
+LoseText =¡Nooooooo! Mis queridos pokémon.
+Pokemon = RATTATA,3
+	IV = 5,6,8,5,9,8
+Pokemon = BUNNELBY,3
+	IV = 8,8,5,6,9,2
+#-------------------------------------------
+[ESTUDIANTE_MUJER, Silvia]
+LoseText =Esto me ayudará con mi trabajo.
+Pokemon = SPEAROW,4
+	IV = 8,9,4,6,5,7
+Pokemon = NICKIT,4
+	IV = 8,8,10,8,5,2
+#-------------------------------------------
+[CHICA, Elena]
+LoseText =Jo, siempre pierdo.
+Pokemon = ZIGZAGOON,3
+	IV = 5,4,8,3,2,6
+Pokemon = FLETCHLING,4
+	IV = 6,7,3,2,5,6
+#-------------------------------------------
+[NINIO, Izan]
+LoseText =Me voy a chivar.
+Pokemon = STARLY,5
+	IV = 6,7,2,8,3,7
+#-------------------------------------------
+[CAZABICHOS, Marcos]
+LoseText = Mis pokémon bicho evolucionados.
+Pokemon = CATERPIE,4
+	IV = 4,3,1,2,0,1
+Pokemon = WEEDLE,4
+	IV = 5,4,2,2,1,1
+Pokemon = CASCOON,5
+	IV = 0,10,0,0,10,0
+Pokemon = SILCOON,5
+	IV = 0,10,0,0,10,0
+#-------------------------------------------
+[CAZABICHOS, Eneko]
+LoseText = Tendré que entrenar mas.
+Pokemon = SCATTERBUG,4
+	IV = 2,5,1,3,5,1
+Pokemon = SPEWPA,4
+	IV = 0,10,0,0,10,0
+Pokemon = METAPOD,4
+	IV = 0,10,0,0,10,0
+Pokemon = KAKUNA,4
+	IV = 0,10,0,0,10,0
+#-------------------------------------------
+[CAZABICHOS, Alberto]
+LoseText = Tendré que entrenar mas.
+Pokemon = VENIPEDE,5
+	IV = 2,5,1,3,5,1
+Pokemon = COMBEE,6
+	IV = 2,6,3,5,2,4
+#-------------------------------------------
+[SENIORITA_AROMA, Clara]
+LoseText = Que olor mas agradable.
+Pokemon = FOMANTIS,6
+	IV = 5,8,6,4,2,3
+Pokemon = BUDEW,6
+	IV = 4,2,3,5,6,8
+#-------------------------------------------
+[ARTISTA, Bosco]
+LoseText = Que buena inspiración.
+Pokemon = TANGELA,7
+	Moves = BIND,STUNSPORE,CUT
+	IV = 7,5,6,8,7,4
+Pokemon = SMEARGLE,8
+	Moves = TACKLE,STRINGSHOT,CUT
+	IV = 8,9,3,2,4,5
