@@ -151,6 +151,7 @@ Name = Rival
 Gender = Male
 BaseMoney = 80
 SkillLevel = 100
+BattleBGM = Battle trainer ash
 #-------------------------------
 [EMMA]
 Name = Rival

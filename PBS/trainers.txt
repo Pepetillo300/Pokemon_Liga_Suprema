@@ -95,3 +95,19 @@ Pokemon = TANGELA,7
 Pokemon = SMEARGLE,8
 	Moves = TACKLE,STRINGSHOT,CUT
 	IV = 8,9,3,2,4,5
+#-------------------------------------------
+[ELOY, Eloy]
+LoseText = Oh... Pues he perdido.
+Pokemon = WIMPOD,7
+	Moves = STRUGGLEBUG,DEFENSECURL,SANDATTACK
+	Abiliy = 2
+	Nature = BOLD
+	IV = 5,2,15,13,6,4
+	EV = 4,3,3,4,3,3
+Pokemon = KAKUNA,10
+	Moves = POISONSTING,HARDEN,STRINGSHOT
+	Abiliy = 0
+	Item = ORANBERRY
+	Nature = ADAMANT
+	IV = 10,7,4,8,9,7
+	EV = 3,5,3,4,3,4

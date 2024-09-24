@@ -5564,7 +5564,7 @@ ShadowSize = 2
 #-------------------------------
 [BEEDRILL,1]
 BackSprite = 0,19
-FrontSprite = 0,15
+FrontSprite = 0,10
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
