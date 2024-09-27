@@ -111,3 +111,28 @@ Pokemon = KAKUNA,10
 	Nature = ADAMANT
 	IV = 10,7,4,8,9,7
 	EV = 3,5,3,4,3,4
+#-------------------------------------------
+[GUITARRISTA, Fabio]
+LoseText = Tienes un ritmo de la leche.
+Pokemon = JOLTIK,7
+	IV = 3,6,5,8,4,1
+Pokemon = ELECTRIKE,7
+	IV = 5,0,3,4,7,8
+#-------------------------------------------
+[PESCADOR, Luis]
+LoseText = Mis queridos pokémon agua.
+Pokemon = POLIWAG,5
+	IV = 4,5,7,5,0,3
+Pokemon = WOOPER,5
+	IV = 6,4,8,1,3,5
+Pokemon = CLAUNCHER,6
+	IV = 0,3,2,5,4,3
+Pokemon = BUIZEL,7
+	IV = 3,4,5,2,6,3
+#-------------------------------------------
+[NINIA_FLOTADOR, Amaya]
+LoseText = Lotad, swirlix, ¿Estais bien?
+Pokemon = LOTAD,6
+	IV = 5,1,6,7,1,0
+Pokemon = SWIRLIX,8
+	IV = 3,3,5,8,2,4

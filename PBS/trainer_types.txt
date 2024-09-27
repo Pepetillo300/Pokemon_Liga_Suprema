@@ -41,6 +41,7 @@ BaseMoney = 110
 Name = Artista
 Gender = Male
 BaseMoney = 35
+IntroBGM = Intro DPP Artista
 #-------------------------------
 [ATENEA]
 Name = Alta Ejecutiva
@@ -73,6 +74,7 @@ SkillLevel = 100
 Name = Calvo
 Gender = Male
 BaseMoney = 35
+IntroBGM = Intro DPP Karateka
 #-------------------------------
 [CAMPISTA]
 Name = Campista
@@ -120,31 +122,37 @@ IntroBGM = Intro DPP Chica
 Name = Ciclista
 Gender = Male
 BaseMoney = 35
+IntroBGM = Intro DPP Ciclista
 #-------------------------------
 [CICLISTA_MUJER]
 Name = Ciclista
 Gender = Female
 BaseMoney = 35
+IntroBGM = Intro DPP Ciclista
 #-------------------------------
 [CIENTIFICA]
 Name = Cientifica
 Gender = Female
 BaseMoney = 55
+IntroBGM = Intro DPP Colector
 #-------------------------------
 [CIENTIFICO]
 Name = Cientifico
 Gender = Male
 BaseMoney = 55
+IntroBGM = Intro DPP Colector
 #-------------------------------
 [DUQUE]
 Name = Duque
 Gender = Male
 BaseMoney = 75
+IntroBGM = Intro DPP Rico
 #-------------------------------
 [DUQUESA]
 Name = Duquesa
 Gender = Female
 BaseMoney = 75
+IntroBGM = Intro DPP Rico
 #-------------------------------
 [ELOY]
 Name = Rival
@@ -163,31 +171,37 @@ SkillLevel = 100
 Name = Entrenador Guay
 Gender = Male
 BaseMoney = 65
+IntroBGM = Intro DPP Entrenador Guay
 #-------------------------------
 [ENTRENADOR_GUAY_HIELO]
 Name = Entrenador Guay
 Gender = Male
 BaseMoney = 65
+IntroBGM = Intro DPP Entrenador Guay
 #-------------------------------
 [ENTRENADORA_GUAY]
 Name = Entrenadora Guay
 Gender = Female
 BaseMoney = 65
+IntroBGM = Intro DPP Entrenador Guay
 #-------------------------------
 [ENTRENADORA_GUAY_HIELO]
 Name = Entrenadora Guay
 Gender = Female
 BaseMoney = 65
+IntroBGM = Intro DPP Entrenador Guay
 #-------------------------------
 [ESQUIADOR]
 Name = Esquiador
 Gender = Male
 BaseMoney = 45
+IntroBGM = Intro DPP Ciclista
 #-------------------------------
 [ESQUIADORA]
 Name = Esquiadora
 Gender = Female
 BaseMoney = 45
+IntroBGM = Intro DPP Ciclista
 #-------------------------------
 [ESTUADIANTE_HOMBRE]
 Name = Estudiante
@@ -220,16 +234,19 @@ BaseMoney = 100
 Name = Granjera
 Gender = Female
 BaseMoney = 35
+IntroBGM = Intro DPP Montaniero
 #-------------------------------
 [GRANJERO]
 Name = Granjero
 Gender = Male
 BaseMoney = 35
+IntroBGM = Intro DPP Montaniero
 #-------------------------------
 [GUITARRISTA]
 Name = Guitarrista
 Gender = Male
 BaseMoney = 45
+IntroBGM = Intro DPP Karateka
 #-------------------------------
 [HELIO]
 Name = Lider Equipo Galaxia
@@ -251,16 +268,19 @@ IntroBGM = Intro DPP Joven
 Name = Karateka
 Gender = Male
 BaseMoney = 45
+IntroBGM = Intro DPP Karateka
 #-------------------------------
 [KARATEKA_MUJER]
 Name = Karateka
 Gender = Female
 BaseMoney = 45
+IntroBGM = Intro DPP Karateka
 #-------------------------------
 [LADRON]
 Name = Ladrón
 Gender = Male
 BaseMoney = 40
+IntroBGM = Intro DPP Colector
 #-------------------------------
 [LYSSON]
 Name = Lider Team Flare
@@ -271,11 +291,13 @@ BaseMoney = 110
 Name = Marinero
 Gender = Male
 BaseMoney = 45
+IntroBGM = Intro DPP Marinero
 #-------------------------------
 [MEDIUM]
 Name = Medium
 Gender = Male
 BaseMoney = 45
+IntroBGM = Intro DPP Karateka
 #-------------------------------
 [MELIA]
 Name = Científica Team Flare
@@ -287,11 +309,13 @@ SkillLevel = 100
 Name = Modelo
 Gender = Female
 BaseMoney = 45
+IntroBGM = Intro DPP Rico
 #-------------------------------
 [MONTANIERO]
 Name = Montañero
 Gender = Male
 BaseMoney = 35
+IntroBGM = Intro DPP Montaniero
 #-------------------------------
 [N]
 Name = Lider
@@ -302,11 +326,13 @@ BaseMoney = 100
 Name = Nadador
 Gender = Male
 BaseMoney = 40
+IntroBGM = Intro DPP Marinero
 #-------------------------------
 [NADADORA]
 Name = Nadadora
 Gender = Female
 BaseMoney = 40
+IntroBGM = Intro DPP Marinero
 #-------------------------------
 [NATALIA]
 Name = Rival
@@ -326,6 +352,7 @@ Name = Niña Bien
 Gender = Female
 BaseMoney = 65
 SkillLevel = 40
+IntroBGM = Intro DPP Rico
 #-------------------------------
 [NINIA_FLOTADOR]
 Name = Niña Flotador
@@ -344,6 +371,7 @@ Name = Niño Bien
 Gender = Male
 BaseMoney = 65
 SkillLevel = 40
+IntroBGM = Intro DPP Rico
 #-------------------------------
 [NINIO_FLOTADOR]
 Name = Niño Flotador
@@ -360,6 +388,7 @@ BaseMoney = 100
 Name = Operario
 Gender = Male
 BaseMoney = 35
+IntroBGM = Intro DPP Artista
 #-------------------------------
 [PAULA]
 Name = Rival
@@ -371,6 +400,7 @@ SkillLevel = 100
 Name = Pescador
 Gender = Male
 BaseMoney = 35
+IntroBGM = Intro DPP Marinero
 #-------------------------------
 [PILAR]
 Name = Rival
@@ -383,21 +413,25 @@ BattleBGM = Battle trainer sonia
 Name = Pokefan
 Gender = Male
 BaseMoney = 40
+IntroBGM = Intro DPP Artista
 #-------------------------------
 [POKEFAN_MUJER]
 Name = Pokefan
 Gender = Female
 BaseMoney = 40
+IntroBGM = Intro DPP Artista
 #-------------------------------
 [POKEMANIACO]
 Name = Pokemaniaco
 Gender = Male
 BaseMoney = 40
+IntroBGM = Intro DPP Colector
 #-------------------------------
 [POLICIA]
 Name = Policía
 Gender = Male
 BaseMoney = 45
+IntroBGM = Intro DPP Artista
 #-------------------------------
 [POLO]
 Name = Lider

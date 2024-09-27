@@ -3188,7 +3188,7 @@ ShadowSize = 2
 #-------------------------------
 [MUNNA]
 BackSprite = 0,49
-FrontSprite = 0,37
+FrontSprite = 0,12
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------

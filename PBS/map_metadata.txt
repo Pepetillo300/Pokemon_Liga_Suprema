@@ -178,3 +178,16 @@ WildVictoryBGM = Battle victory wild
 TrainerVictoryBGM = Battle victory trainer
 WildCaptureME = Battle capture success
 Environment = Grass
+#-------------------------------
+[019]   # Ruta 1 (Fin)
+Name = Ruta 1 (Fin)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
