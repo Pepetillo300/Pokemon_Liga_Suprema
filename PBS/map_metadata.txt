@@ -170,6 +170,7 @@ Name = Ruta 1 (Bosque)
 Outdoor = true
 ShowArea = true
 Bicycle = true
+HealingSpot = 8,14,18
 SnapEdges = true
 BattleBack = forest
 WildBattleBGM = Battle wild
@@ -187,6 +188,53 @@ Bicycle = true
 SnapEdges = true
 BattleBack = field
 WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+#-------------------------------
+[020]   # Isla Media
+Name = Isla Media
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+BattleBack = Field
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+#-------------------------------
+[022]   # Gimnasio1 (Gladio)
+Name = Primer Gimnasio
+ShowArea = true
+HealingSpot = 8,14,18
+SnapEdges = true
+BattleBack = field
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+#-------------------------------
+[023]   # Gimnasio 1 (Raticate)
+Name = Gimnasio 1
+HealingSpot = 8,14,18
+SnapEdges = true
+BattleBack = Field
+WildBattleBGM = Battle wild totem
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+WildCaptureME = Battle capture success
+#-------------------------------
+[024]   # Gimnasio 1 (Gumshos)
+Name = Gimnasio 1
+HealingSpot = 8,14,18
+SnapEdges = true
+BattleBack = Field
+WildBattleBGM = Battle wild totem
 TrainerBattleBGM = Battle trainer
 WildVictoryBGM = Battle victory wild
 TrainerVictoryBGM = Battle victory trainer

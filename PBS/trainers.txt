@@ -100,13 +100,13 @@ Pokemon = SMEARGLE,8
 LoseText = Oh... Pues he perdido.
 Pokemon = WIMPOD,7
 	Moves = STRUGGLEBUG,DEFENSECURL,SANDATTACK
-	Abiliy = 2
+	AbilityIndex = 2
 	Nature = BOLD
 	IV = 5,2,15,13,6,4
 	EV = 4,3,3,4,3,3
 Pokemon = KAKUNA,10
 	Moves = POISONSTING,HARDEN,STRINGSHOT
-	Abiliy = 0
+	AbilityIndex = 0
 	Item = ORANBERRY
 	Nature = ADAMANT
 	IV = 10,7,4,8,9,7
@@ -136,3 +136,73 @@ Pokemon = LOTAD,6
 	IV = 5,1,6,7,1,0
 Pokemon = SWIRLIX,8
 	IV = 3,3,5,8,2,4
+#-------------------------------------------
+[CARLA,Carla,2]
+LoseText =No la has visto mas gorda en tu vida.
+Pokemon = ESPURR,10
+	Gender = female
+	Moves = FAKEOUT,DISARMINGVOICE,CONFUSION
+	AbilityIndex = 0
+	Nature = HASTY
+	IV = 15,14,10,2,12,1
+	EV = 8,5,7,5,6,5
+Pokemon = PIPLUP,12
+	Gender = female
+	Moves = POUND,CHARM,WATERGUN
+	AbilityIndex = 0
+	Nature = HASTY
+	Item = PECHABERRY
+	IV = 13,15,12,1,6,11
+	EV = 5,7,2,3,8,10
+#-------------------------------------------
+[NINIA_FLOTADOR, Clarita]
+LoseText = Jo, mis pokémon de Alola.
+Pokemon = VULPIX,8
+	Form = 1
+	IV = 6,4,8,5,3,4
+Pokemon = GRIMER,9
+	Form = 1
+	IV = 5,9,8,4,2,3
+Pokemon = MEOWTH,9
+	Form = 1
+	IV = 2,4,7,10,8,6
+#-------------------------------------------
+[NINIO_FLOTADOR, Pedrito]
+LoseText = Jo, mis pokémon exóticos.
+Pokemon = SALANDIT,9
+	IV = 5,2,3,9,4,8
+Pokemon = DEWPIDER,9
+	IV = 2,7,1,9,0,4
+Pokemon = BOUNSWEET,10
+	IV = 4,7,10,0,2,6
+#-------------------------------------------
+[MARINERO, Javier]
+LoseText = Menudo abordaje me has hecho.
+Pokemon = CRABRAWLER,11
+	IV = 6,4,8,2,5,6
+Pokemon = MAREANIE,11
+	IV = 4,7,9,6,3,5
+#-------------------------------------------
+[GLADIO, Gladio]
+LoseText = Grrrrr, tal y como esperaba eres increible.
+Pokemon = GRUBBIN,12
+	Gender = Male
+	Moves = VISEGRIP,MUDSLAP,STRINGSHOT,BUGBITE
+	AbilityIndex = 0
+	Nature = HARDY
+	IV = 10,12,10,8,9,7
+	EV = 15,8,5,6,2,4
+Pokemon = ROCKRUFF,12
+	Gender = Male
+	Moves = STEALTHROCK,ROCKTHROW,DOUBLETEAM,TACKLE
+	AbilityIndex = 0
+	Nature = HARDY
+	IV = 15,16,14,12,8,9
+	EV = 8,10,5,7,4,6
+Pokemon = TYPENULL,14
+	Moves = TACKLE,IMPRISON,AERIALACE,SCARYFACE
+	AbilityIndex = 0
+	Nature = HARDY
+	Item = ORANBERRY
+	IV = 0,0,0,0,0,0
+	EV = 0,0,0,0,0,0

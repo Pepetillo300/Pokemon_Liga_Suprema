@@ -229,6 +229,7 @@ BaseMoney = 115
 Name = Lider
 Gender = Male
 BaseMoney = 100
+BattleBGM = Battle gym 1 gladio
 #-------------------------------
 [GRANJERA]
 Name = Granjera
