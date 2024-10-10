@@ -67,7 +67,7 @@ class Battle
     elsif expAll   # Didn't participate in battle, gaining Exp due to Exp All
       # NOTE: Exp All works like the Exp Share from Gen 6+, not like the Exp All
       #       from Gen 1, i.e. Exp isn't split between all Pokémon gaining it.
-      exp = a / 3
+      exp = a / 2
     end
     return if exp <= 0
     # Pokémon gain more Exp from trainer battles
